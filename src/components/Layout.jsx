@@ -9,8 +9,8 @@ export default function Layout() {
       <Outlet />
       <footer style={{ padding: "50px", textAlign: "center", color: "white" }}>
         made with ❤️ by{" "}
-        <a href="https://github.com/Yonro-08" target="_blank">
-          Yonro-08
+        <a href="https://github.com/Rodjer02" target="_blank">
+          Rodjer02
         </a>
       </footer>
     </>
